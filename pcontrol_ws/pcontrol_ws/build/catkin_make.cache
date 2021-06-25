@@ -1,0 +1,2 @@
+pcontrol
+-DCATKIN_DEVEL_PREFIX=/home/adriel/ARPON/pcontrol_ws/pcontrol_ws/devel -DCMAKE_INSTALL_PREFIX=/home/adriel/ARPON/pcontrol_ws/pcontrol_ws/install -G Unix Makefiles

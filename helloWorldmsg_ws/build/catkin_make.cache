@@ -1,0 +1,2 @@
+msgpkg
+-DCATKIN_DEVEL_PREFIX=/home/adriel/ARPON/helloWorldmsg_ws/devel -DCMAKE_INSTALL_PREFIX=/home/adriel/ARPON/helloWorldmsg_ws/install -G Unix Makefiles

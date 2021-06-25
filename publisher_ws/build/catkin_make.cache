@@ -1,0 +1,2 @@
+primeiro_pacote
+-DCATKIN_DEVEL_PREFIX=/home/adriel/ARPON/publisher_ws/devel -DCMAKE_INSTALL_PREFIX=/home/adriel/ARPON/publisher_ws/install -G Unix Makefiles

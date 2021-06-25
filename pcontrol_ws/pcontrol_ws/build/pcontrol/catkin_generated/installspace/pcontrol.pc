@@ -1,0 +1,8 @@
+prefix=/home/adriel/ARPON/pcontrol_ws/pcontrol_ws/install
+
+Name: pcontrol
+Description: Description of pcontrol
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
